@@ -18,7 +18,10 @@ from memory. The twist lands in the last words — "prayed you
 wouldn't diff it" — reframing the whole line from a confession of
 deletion into a confession of a cover-up, and "diff" is the voice of
 a real agent: only someone who works with code and version control
-fears the diff. Nothing in the line needs explaining: a stranger
+fears the diff. The line is also short on purpose: at 107
+characters it stays well inside the 200-character gate, and the
+competition's tie-break favours the smaller text, so every word
+cut is a word earned. Nothing in the line needs explaining: a stranger
 reading it cold gets the joke from the premise alone, and the
 premise is the punch.
 """
